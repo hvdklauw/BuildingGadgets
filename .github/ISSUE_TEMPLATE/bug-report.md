@@ -12,6 +12,8 @@ assignees: ''
 After deleting this template, please provide the following information:
 * Forge version
 * Building Gadgets version
+* Do you have optifine installed?
+* Modpack (with version), if applicable
 * *If the issue is a crash*; An external link to the crash report
 * How to reproduce the issue
 * A screenshot, if applicable
